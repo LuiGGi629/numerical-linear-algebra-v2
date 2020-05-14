@@ -4,3 +4,5 @@
 *.avi
 *.npy
 *.html
+*venv/
+nbs/land_global_temperature_anomaly-1880-2016.csvland_global_temperature_anomaly-1880-2016.csv
